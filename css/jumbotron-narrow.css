@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px;
+}
+
+.header{
+	margin-bottom: 20px;
+
+}
+
+.btn {
+	background-color: #c6582e;
+	border-color: #C97006;
+
+}
+.jumbotron {
+	padding: 30px;
+	margin-bottom: 30px;
+	font-size: 21px;
+	font-weight: 200;
+	line-height: 2.1428571435;
+	color: inherit;
+	background-color: #eeeeee;
+	background-image: url(../header_02.jpg);
+	background-repeat: no-repeat;
+}
+
